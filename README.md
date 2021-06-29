@@ -1,4 +1,4 @@
-echo "# MyProject" >> README.md
+echo "# MyProject" >> README.md 29/06/2564
 
 
 git config --global user.email "apichat.pta2544@gmail.com"
